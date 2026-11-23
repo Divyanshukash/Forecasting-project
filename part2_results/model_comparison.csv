@@ -1,0 +1,49 @@
+series,measure,model,RMSE,MAPE_pct
+Combined monthly titles,expiry,Moving average (3),5888.754024610535,55.17412845900601
+Combined monthly titles,expiry,Holt,6335.092725931933,43.53190095129993
+Combined monthly titles,expiry,SES,6579.505682937919,42.57852771581588
+Combined monthly titles,expiry,Naive,7649.649632499517,41.89629948858325
+Combined monthly titles,expiry,Holt-Winters,8668.526440213884,45.10032901661158
+Combined monthly titles,expiry,Seasonal naive,8925.46489918966,46.20368123563785
+Combined monthly titles,opening,Holt-Winters,398741.37899372913,22.1629059189869
+Combined monthly titles,opening,Naive,444569.77616492705,18.872261549862664
+Combined monthly titles,opening,Seasonal naive,460261.95478698146,16.055838174732543
+Combined monthly titles,opening,Holt,589415.2774384617,33.939126651348225
+Combined monthly titles,opening,SES,604904.6545188393,34.96528205252632
+Combined monthly titles,opening,Moving average (3),724325.3008502987,41.56784633959174
+Outlook Business,expiry,Moving average (3),6129.4713303197,99.18701269026887
+Outlook Business,expiry,SES,6757.541517061682,100.0528931127944
+Outlook Business,expiry,Holt,8048.152691452987,69.66700050252724
+Outlook Business,expiry,Seasonal naive,8756.842553112394,134.64505419221427
+Outlook Business,expiry,Holt-Winters,8969.642995609933,113.63533929288536
+Outlook Business,expiry,Naive,9944.849294986827,70.504319186447
+Outlook Business,opening,Holt-Winters,373349.3081286474,29.95383394634948
+Outlook Business,opening,Seasonal naive,403718.8780081589,33.60948876468077
+Outlook Business,opening,SES,459618.8023342236,46.07054207322086
+Outlook Business,opening,Naive,461577.0075014569,47.207819634563194
+Outlook Business,opening,Holt,597726.0261844748,80.72268345982302
+Outlook Business,opening,Moving average (3),766710.1168876624,105.08182464248728
+Outlook Money,expiry,Holt,1605.3164059855126,76.66294230954543
+Outlook Money,expiry,SES,1611.7879534247697,80.69148138088971
+Outlook Money,expiry,Seasonal naive,2424.326023179776,96.62767758984012
+Outlook Money,expiry,Holt-Winters,2480.855410572433,153.37263017493055
+Outlook Money,expiry,Moving average (3),3713.0063624814966,271.76565892401857
+Outlook Money,expiry,Naive,4335.872518882446,314.6761609957361
+Outlook Money,opening,Holt,5892.2461430157,0.8041984172756321
+Outlook Money,opening,Naive,20553.006069672632,2.9475003461078937
+Outlook Money,opening,SES,20553.357062122373,2.947565945281257
+Outlook Money,opening,Moving average (3),22920.101462088114,3.4096325964900864
+Outlook Money,opening,Holt-Winters,86750.17626574631,12.915746873155928
+Outlook Money,opening,Seasonal naive,97379.15056708323,16.009600782199335
+Outlook Traveller,expiry,Holt,876.9236927793229,69.01469630304513
+Outlook Traveller,expiry,Holt-Winters,973.3428635008283,77.29100677814542
+Outlook Traveller,expiry,Moving average (3),1007.198809245386,58.538249397313045
+Outlook Traveller,expiry,Seasonal naive,1031.635352244193,45.617007222333186
+Outlook Traveller,expiry,SES,1047.4035539377965,50.72025532528509
+Outlook Traveller,expiry,Naive,1445.6080035749665,58.12124934744215
+Outlook Traveller,opening,Holt,9746.63593060354,3.2564556339876587
+Outlook Traveller,opening,Naive,24258.703919074764,7.992618679314427
+Outlook Traveller,opening,SES,24540.442893537966,8.106999655656946
+Outlook Traveller,opening,Moving average (3),27185.514686780105,9.22509744252844
+Outlook Traveller,opening,Seasonal naive,38601.5052513068,14.24029994365921
+Outlook Traveller,opening,Holt-Winters,71444.67268391367,23.73313434114325

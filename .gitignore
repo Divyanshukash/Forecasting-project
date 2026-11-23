@@ -1,0 +1,28 @@
+# Local dependencies and Python artifacts
+forecast_dependencies/
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Private builds, previews and diagnostics
+outputs/part5_build/
+outputs/part3/*.png
+outputs/part3/*.ndjson
+dashboard_images/overview_candidate.png
+part2_results/deck_data.json
+part2_results/monthly_input.json
+part2_log.txt
+Outlook_Subscriptions_cropped.pdf
+build_analysis.py
+run_analysis.py
+build_trend.mjs
+build_client_deck.mjs
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

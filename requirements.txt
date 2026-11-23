@@ -1,0 +1,9 @@
+# Versions used for the statistical analysis (Python 3.12)
+numpy==1.26.4
+pandas==2.3.3
+scipy==1.16.3
+statsmodels==0.15.0
+matplotlib==3.8.4
+openpyxl==3.1.5
+jupyterlab>=4,<5
+ipykernel>=6,<8
